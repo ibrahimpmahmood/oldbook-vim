@@ -24,7 +24,7 @@ Install manually or with your favorite plug-in manager and then load the theme.
 With `vim-plug`:
 
 ```VimL
-Plug 'KKPMW/oldbook-vim'
+Plug 'ibrahimpmahmood/oldbook-vim'
 colorscheme oldbook
 ```
 

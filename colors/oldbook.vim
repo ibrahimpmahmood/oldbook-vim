@@ -45,7 +45,7 @@ if &t_Co >= 256
   hi IncSearch        ctermbg=178  ctermfg=238  cterm=NONE        guibg=#d5bc02 guifg=#3c4855 gui=NONE
   hi Search           ctermbg=185  ctermfg=238  cterm=NONE        guibg=#ddd668 guifg=#3c4855 gui=NONE
 
-  hi StatusLine       ctermbg=242  ctermfg=252  cterm=NONE        guibg=#616c72 guifg=#c5d4dd gui=NONE
+  hi StatusLine       ctermbg=245  ctermfg=255  cterm=NONE        guibg=#616c72 guifg=#c5d4dd gui=NONE
   hi StatusLineNC     ctermbg=242  ctermfg=252  cterm=NONE        guibg=#616c72 guifg=#c5d4dd gui=NONE
   hi VertSplit        ctermbg=NONE ctermfg=242  cterm=NONE        guibg=NONE    guifg=#616c72 gui=NONE
   hi WildMenu         ctermbg=252  ctermfg=238  cterm=NONE        guibg=#c5d4dd guifg=#3c4855 gui=NONE
